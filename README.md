@@ -1,1 +1,1 @@
-My fist readme
+I am doing hard things
